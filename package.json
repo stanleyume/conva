@@ -1,0 +1,23 @@
+{
+  "name": "conva",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanleyume/conva.git"
+  },
+  "keywords": [],
+  "author": "Stanley Umeanozie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanleyume/conva/issues"
+  },
+  "homepage": "https://github.com/stanleyume/conva#readme",
+  "dependencies": {
+    "conva-length": "^1.0.4"
+  }
+}
